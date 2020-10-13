@@ -10,12 +10,12 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAAL
 **gaiousantonio0909/gaiousantonio0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Image of mybadge](https://img.shields.io/badge/VSCode%20User%20Level-100%25-007ACC?logo=visualstudiocode&style=flat)
 -->
-- 🔭 I’m currently working at  [Product List Genie ![Image of PLG](https://app.productlistgenie.io/assets/graphics/favicon.ico)](https://funnelgenie.com/)
-- 🌱 I’m currently learning something that Im about to discover.
-- 💬 Ask me about anything, Feel free to ask . 😅😆
-- 📫 How to reach me: [Send me an Email 📩](mailto:gaiousantonio4@gmail.com)
-- 😄 Pronouns: "Ga-yus" 
-- ⚡ Fun fact: I always laugh at Dark Memes 🤣🤣🤣
+- 🔭  I’m currently working at  [Product List Genie ![Image of PLG](https://app.productlistgenie.io/assets/graphics/favicon.ico)](https://funnelgenie.com/)
+- 🌱  I’m currently learning something that Im about to discover.
+- 💬  Ask me about anything, Feel free to ask . 😅😆
+- 📫  How to reach me: [Send me an Email 📩](mailto:gaiousantonio4@gmail.com)
+- 😄  Pronouns: "Ga-yus" 
+- ⚡  Fun fact: I always laugh at Dark Memes 🤣🤣🤣
 
 ![Image of mybadge](https://img.shields.io/static/v1?label=Life%20Status&message=Working%20and%20Hustlin&color=97455F)
 ![Image of mybadge](https://img.shields.io/static/v1?label=Beer%20Level&message=100%&color=2EBA1F)

@@ -18,7 +18,7 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAAL
 - ⚡  Fun fact: I always laugh at Dark Memes 🤣🤣🤣
 
 ![Image of mybadge](https://img.shields.io/static/v1?label=Life%20Status&message=Working%20and%20Hustlin&color=97455F)
-![Image of mybadge](https://img.shields.io/static/v1?label=Beer%20Level&message=100%&color=2EBA1F)
+![Image of mybadge](https://img.shields.io/static/v1?label=🍻%20Beer%20Level&message=100%&color=2EBA1F)
 [![Image of mybadge](https://img.shields.io/badge/Gaious%20Antonio-Profile%20😀-0063B1?logo=facebook&style=flat)](https://facebook.com/gaious27)
 <br />
 ### My Powers 🤣😂☢👨🏽‍🎓🧙🏽‍♂️

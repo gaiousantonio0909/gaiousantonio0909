@@ -20,7 +20,7 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAAL
 ![Image of mybadge](https://img.shields.io/static/v1?label=Life%20Status&message=Working%20and%20Hustlin&color=97455F)
 ![Image of mybadge](https://img.shields.io/static/v1?label=🍻%20Beer%20Level&message=100%&color=2EBA1F)
 ![Image of mybadge](https://img.shields.io/badge/Buy%20Me-Some%20Beer-43A047?logo=bitcoin&style=flat)
-[![Image of mybadge](https://img.shields.io/badge/Gaious%20Antonio-Profile%20😀-0063B1?logo=facebook&style=flat)](https://facebook.com/gaious27)
+<a href="https://facebook.com/gaious27" target="_blank">![Image of mybadge](https://img.shields.io/badge/Gaious%20Antonio-Profile%20😀-0063B1?logo=facebook&style=flat)</a>
 <br />
 ### My Powers 🤣😂☢👨🏽‍🎓🧙🏽‍♂️
 <br />

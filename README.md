@@ -25,6 +25,7 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAAL
 ### My Powers 🤣😂☢👨🏽‍🎓🧙🏽‍♂️
 <br />
 
+![Image of mybadge](https://img.shields.io/badge/NextJS%20Level-86%25-000000?logo=next.js&style=flat)
 ![Image of mybadge](https://img.shields.io/badge/Firebase%20Level-100%25-FFCA28?logo=firebase&style=flat)
 ![Image of mybadge](https://img.shields.io/badge/GraphQL%20Level-65%25-E10098?logo=graphql&style=flat)
 ![Image of mybadge](https://img.shields.io/badge/Apollo%20GraphQL%20Level-55%25-311C87?logo=graphql&style=flat)

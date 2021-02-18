@@ -40,5 +40,5 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAAL
 ![Image of mybadge](https://img.shields.io/badge/TypescriptJS%20Level-90%25-007ACC?logo=typescript&style=flat)
 ![Image of mybadge](https://img.shields.io/badge/C%20Sharp%20Level-90%25-239120?logo=c-sharp&style=flat)
 ![Image of mybadge](https://img.shields.io/badge/JavaScript%20Level-100%25-F7DF1E?logo=javascript&style=flat)
-![Image of mybadge](https://img.shields.io/badge/Shopify%20Dev%20Level-70%25-7AB55C?logo=shopify&style=flat)
+![Image of mybadge](https://img.shields.io/badge/Shopify%20Dev%20Level-95%25-7AB55C?logo=shopify&style=flat)
 ![Image of mybadge](https://img.shields.io/badge/PhotoShop%20Level-15%25-007ACC?logo=adobe-photoshop&style=flat)

@@ -25,6 +25,8 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAAL
 ### My Powers 🤣😂☢👨🏽‍🎓🧙🏽‍♂️
 <br />
 
+
+
 ![Image of mybadge](https://img.shields.io/badge/NextJS%20Level-86%25-000000?logo=next.js&style=flat)
 ![Image of mybadge](https://img.shields.io/badge/Firebase%20Level-100%25-FFCA28?logo=firebase&style=flat)
 ![Image of mybadge](https://img.shields.io/badge/GraphQL%20Level-100%25-E10098?logo=graphql&style=flat)
@@ -42,3 +44,6 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAAL
 ![Image of mybadge](https://img.shields.io/badge/JavaScript%20Level-100%25-F7DF1E?logo=javascript&style=flat)
 ![Image of mybadge](https://img.shields.io/badge/Shopify%20Dev%20Level-95%25-7AB55C?logo=shopify&style=flat)
 ![Image of mybadge](https://img.shields.io/badge/PhotoShop%20Level-15%25-007ACC?logo=adobe-photoshop&style=flat)
+
+
+![Gaious' github stats](https://github-readme-stats.vercel.app/api?username=gaiousantonio0909&show_icons=true&theme=tokyonight)

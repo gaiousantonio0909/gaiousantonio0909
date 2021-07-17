@@ -33,6 +33,7 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAAL
 ![Image of mybadge](https://img.shields.io/badge/Apollo%20GraphQL%20Level-100%25-311C87?logo=graphql&style=flat)
 ![Image of mybadge](https://img.shields.io/badge/Flutter%20Level-100%25-02569B?logo=flutter&style=flat)
 ![Image of mybadge](https://img.shields.io/badge/ReactJS%20Level-95%25-61DAFB?logo=react&style=flat)
+![Image of mybadge](https://img.shields.io/badge/React%20Redux%20Level-80%25-764ABC?logo=redux&style=flat)
 ![Image of mybadge](https://img.shields.io/badge/Symfony%20Level-85%25-dadada?logo=symfony&style=flat)
 ![Image of mybadge](https://img.shields.io/badge/CodeIgniter%20Level-100%25-EE4623?logo=codeigniter&style=flat)
 ![Image of mybadge](https://img.shields.io/badge/MongoDB%20Level-95%25-47A248?logo=mongodb&style=flat)
@@ -44,6 +45,9 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAAL
 ![Image of mybadge](https://img.shields.io/badge/JavaScript%20Level-100%25-F7DF1E?logo=javascript&style=flat)
 ![Image of mybadge](https://img.shields.io/badge/Shopify%20Dev%20Level-95%25-7AB55C?logo=shopify&style=flat)
 ![Image of mybadge](https://img.shields.io/badge/PhotoShop%20Level-15%25-007ACC?logo=adobe-photoshop&style=flat)
+![Image of mybadge](https://img.shields.io/badge/SQL%20Server%20Level-80%25-CC2927?logo=microsoftsqlserver&style=flat)
+![Image of mybadge](https://img.shields.io/badge/ExpressJS%20Level-80%25-000?logo=express&style=flat)
+![Image of mybadge](https://img.shields.io/badge/NGINX%20Level-70%25-009639?logo=nginx&style=flat)
 
 
-![Gaious' github stats](https://github-readme-stats.vercel.app/api?username=gaiousantonio0909&show_icons=true&theme=tokyonight)
+<!-- ![Gaious' github stats](https://github-readme-stats.vercel.app/api?username=gaiousantonio0909&show_icons=true&theme=tokyonight) -->

@@ -1,5 +1,4 @@
 ### Hi Im Gaious 😁😁
-![Image of mybadge](https://img.shields.io/badge/GitBash-Explorer-F05032?logo=git&style=flat)
 ![Image of mybadge](https://img.shields.io/badge/ReactJS-Developer-61DAFB?logo=react&style=flat)
 ![Image of mybadge](https://img.shields.io/badge/Flutter-Developer-02569B?logo=flutter&style=flat)
 ![Image of mybadge](https://img.shields.io/badge/Android-Developer-3DDC84?logo=android-studio&style=flat)
@@ -11,44 +10,598 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&style=flat)](https://www.linkedin.com/in/gaious-antonio-28b21916b/)
 [![Github Badge](https://img.shields.io/badge/LinkedIn-Profile-181717?logo=github&style=flat)](https://github.com/gaiousantonio0909)
 
-- 🔭  I’m currently working at  [Product List Genie ![Image of PLG](https://app.productlistgenie.io/assets/graphics/favicon.ico)](https://funnelgenie.com/)
+- 👷‍♀️  CMS Developer at  [Product List Genie ![Image of PLG](https://app.productlistgenie.io/assets/graphics/favicon.ico)](https://funnelgenie.com/)
 - 🌱  I’m currently learning something that Im about to discover.
 - 💬  Ask me about anything, Feel free to ask . 😅😆
 - 📫  How to reach me: [Send me an Email 📩](mailto:gaiousantonio4@gmail.com)
 - 😄  Pronouns: "Ga-yus" 
-- ⚡  Fun fact: I always laugh at Dark Memes 🤣🤣🤣
+- ⚡  Fun fact: I love creating Memes 🤣🤣🤣
 
 ![Image of mybadge](https://img.shields.io/static/v1?label=Life%20Status&message=Working%20and%20Hustlin&color=97455F)
 ![Image of mybadge](https://img.shields.io/badge/Buy%20Me-Some%20Beer-43A047?logo=bitcoin&style=flat) 
+## Skills 
+### Programming Languages
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="JavaScript" width="70" src="https://cdn.simpleicons.org/javascript"/>        
+        <span>Javascript</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="TypeScript" width="70" src="https://cdn.simpleicons.org/typescript"/>        
+        <span>TypeScript</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="Dart" width="70" src="https://cdn.simpleicons.org/dart"/>        
+        <span>Dart</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="Swift" width="70" src="https://cdn.simpleicons.org/swift"/>        
+        <span>Swift</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="PHP" width="70" src="https://cdn.simpleicons.org/php"/>        
+        <span>PHP</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px;         
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="Swift" width="70" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg"/>        
+        <span>C#</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="CSS3" width="70" src="https://cdn.simpleicons.org/css3"/>        
+        <span>CSS3</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="HTML5" width="70" src="https://cdn.simpleicons.org/html5"/>        
+        <span>HTML5</span>
+    </div>
+</div>
 <br />
-### My Powers 🤣😂☢👨🏽‍🎓🧙🏽‍♂️
+
+### Back-End Frameworks
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="ExpressJS" width="70" src="https://cdn.simpleicons.org/express"/>        
+        <span>ExpressJS</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="koa" width="70" src="https://cdn.simpleicons.org/koa"/>        
+        <span>Koa</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="Graphql" width="70" src="https://cdn.simpleicons.org/graphql"/>        
+        <span>Graphql</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="NestJS" width="70" src="https://cdn.simpleicons.org/nestjs"/>        
+        <span>NestJS</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="Mongoose" width="70" src="https://cdn.simpleicons.org/mongoose"/>        
+        <span>Mongoose</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="tRPC" width="70" src="https://cdn.simpleicons.org/trpc"/>        
+        <span>tRPC</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px;         
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="Firebase" width="70" src="https://cdn.simpleicons.org/firebase"/>        
+        <span>Firebase</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="Laravel" width="70" src="https://cdn.simpleicons.org/laravel"/>        
+        <span>Laravel</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="Symfony" width="70" src="https://cdn.simpleicons.org/symfony"/>        
+        <span>Symfony</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="Codeigniter" width="70" src="https://cdn.simpleicons.org/codeigniter"/>        
+        <span>Codeigniter</span>
+    </div>
+</div>
 <br />
 
+### Front-End Frameworks
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="ReactJS" width="70" src="https://cdn.simpleicons.org/react"/>        
+        <span>ReactJS</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="Redux" width="70" src="https://cdn.simpleicons.org/redux"/>        
+        <span>Redux</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="Zod" width="70" src="https://cdn.simpleicons.org/zod"/>        
+        <span>Zod</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="TailwindCSS" width="70" src="https://cdn.simpleicons.org/tailwindcss"/>        
+        <span>TailwindCSS</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="Bootstrap" width="70" src="https://cdn.simpleicons.org/bootstrap"/>        
+        <span>Bootstrap</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="Apollographql" width="70" src="https://cdn.simpleicons.org/apollographql"/>        
+        <span>Apollo GraphQL</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="vuedotjs" width="70" src="https://cdn.simpleicons.org/vuedotjs"/>        
+        <span>Vue.JS</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="jest" width="70" src="https://cdn.simpleicons.org/jest"/>        
+        <span>Jest</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="cypress" width="70" src="https://cdn.simpleicons.org/cypress"/>        
+        <span>Cypress</span>
+    </div>
+</div>
+<br />
 
+### Mobile Development Frameworks
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="flutter" width="70" src="https://cdn.simpleicons.org/flutter"/>
+        <span>Flutter</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        flex-direction: column;">
+        <img alt="flutterbloc" width="70" src="https://pub.dev/packages/flutter_bloc/versions/8.1.6/gen-res/gen/logo.webp"/>        
+        <span>Flutter BLoC</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="fluttergraphQL" width="70" src="https://cdn.simpleicons.org/graphql"/>        
+        <span>Flutter GraphQL</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="react" width="70" src="https://cdn.simpleicons.org/react"/>        
+        <span>React Native</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="reduxsaga" width="70" src="https://cdn.simpleicons.org/reduxsaga"/>        
+        <span>Redux Saga</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        flex-direction: column;">
+        <img alt="apollographql" width="70" src="https://cdn.simpleicons.org/apollographql"/>        
+        <center>
+            Apollo GraphQL 
+            <br/>
+            (React Native)
+        </center>
+    </div>
+</div>
+<br />
 
-![NextJS](https://img.shields.io/badge/NextJS%20Level-76%25-000000?logo=next.js&style=flat)
-![Firebase](https://img.shields.io/badge/Firebase%20Level-100%25-FFCA28?logo=firebase&style=flat)
-![GraphQL](https://img.shields.io/badge/GraphQL%20Level-100%25-E10098?logo=graphql&style=flat)
-![ApolloGraphQL](https://img.shields.io/badge/Apollo%20GraphQL%20Level-100%25-311C87?logo=graphql&style=flat)
-![Flutter](https://img.shields.io/badge/Flutter%20Level-100%25-02569B?logo=flutter&style=flat)
-![Image of mybadge](https://img.shields.io/badge/ReactJS%20Level-100%25-61DAFB?logo=react&style=flat)
-![Image of mybadge](https://img.shields.io/badge/React%20Redux%20Level-100%25-764ABC?logo=redux&style=flat)
-![Image of mybadge](https://img.shields.io/badge/Symfony%20Level-85%25-dadada?logo=symfony&style=flat)
-![Image of mybadge](https://img.shields.io/badge/CodeIgniter%20Level-100%25-EE4623?logo=codeigniter&style=flat)
-![Image of mybadge](https://img.shields.io/badge/MongoDB%20Level-100%25-47A248?logo=mongodb&style=flat)
-![Image of mybadge](https://img.shields.io/badge/Dot%20NET%20Level-100%25-5C2D91?logo=.net&style=flat)
-![Image of mybadge](https://img.shields.io/badge/Unity%20Level-85%25-black?logo=unity&style=flat)
-![Image of mybadge](https://img.shields.io/badge/NodeJS%20Level-100%25-339933?logo=node.js&style=flat)
-![Image of mybadge](https://img.shields.io/badge/TypescriptJS%20Level-85%25-007ACC?logo=typescript&style=flat)
-![Image of mybadge](https://img.shields.io/badge/C%20Sharp%20Level-70%25-239120?logo=c-sharp&style=flat)
-![Image of mybadge](https://img.shields.io/badge/JavaScript%20Level-100%25-F7DF1E?logo=javascript&style=flat)
-![Image of mybadge](https://img.shields.io/badge/Shopify%20Dev%20Level-85%25-7AB55C?logo=shopify&style=flat)
-![Image of mybadge](https://img.shields.io/badge/PhotoShop%20Level-15%25-007ACC?logo=adobe-photoshop&style=flat)
-![Image of mybadge](https://img.shields.io/badge/SQL%20Server%20Level-100%25-CC2927?logo=microsoftsqlserver&style=flat)
-![Image of mybadge](https://img.shields.io/badge/ExpressJS%20Level-100%25-000?logo=express&style=flat)
-![Image of mybadge](https://img.shields.io/badge/NGINX%20Level-100%25-009639?logo=nginx&style=flat)
-![TailWindCSS](https://img.shields.io/badge/TailwindCSS%20Level-80%25-06B6D4?logo=tailwind-css&style=flat)
-![Docker](https://img.shields.io/badge/Docker%20Level-85%25-0080FF?logo=docker&style=flat)
+### Databases
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="mysql" width="70" src="https://cdn.simpleicons.org/mysql"/>
+        <span>MySQL</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="mariadb" width="70" src="https://cdn.simpleicons.org/mariadb"/>
+        <span>MariaDB</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="postgresql" width="70" src="https://cdn.simpleicons.org/postgresql"/>
+        <span>Postgresql</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="msSQL" width="70" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000"/>
+        <span>MsSQL</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="mongodb" width="70" src="https://cdn.simpleicons.org/mongodb"/>
+        <span>MongoDB</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="sqlite" width="70" src="https://cdn.simpleicons.org/sqlite"/>
+        <span>SQLite</span>
+    </div>
+</div>
+<br />
 
+### Payment Integrations
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="paypal" width="70" src="https://cdn.simpleicons.org/paypal"/>
+        <span>Paypal</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="braintree" width="70" src="https://cdn.simpleicons.org/braintree"/>
+        <span>Braintree</span>
+    </div> 
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="square" width="70" src="https://cdn.simpleicons.org/square"/>
+        <span>Square</span>
+    </div> 
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="stripe" width="70" src="https://cdn.simpleicons.org/stripe"/>
+        <span>Stripe</span>
+    </div> 
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="payoneer" width="70" src="https://cdn.simpleicons.org/payoneer"/>
+        <span>Payoneer</span>
+    </div> 
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="applepay" width="70" src="https://cdn.simpleicons.org/applepay"/>
+        <span>Apple Pay</span>
+    </div>  
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="googlepay" width="70" src="https://cdn.simpleicons.org/googlepay"/>
+        <span>Google Pay</span>
+    </div> 
+</div>
 
-<!-- ![Gaious' github stats](https://github-readme-stats.vercel.app/api?username=gaiousantonio0909&show_icons=true&theme=tokyonight) -->
+### Other Tools / Integrations
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="shopify" width="70" src="https://cdn.simpleicons.org/shopify"/>
+        <span>Shopify</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="nginx" width="70" src="https://cdn.simpleicons.org/nginx"/>
+        <span>Nginx</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="jenkins" width="70" src="https://cdn.simpleicons.org/jenkins"/>
+        <span>Jenkins</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="githubactions" width="70" src="https://cdn.simpleicons.org/githubactions"/>
+        <span>Github Actions</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="digitalocean" width="70" src="https://cdn.simpleicons.org/digitalocean"/>
+        <span>DigitalOcean</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="googlecloud" width="70" src="https://cdn.simpleicons.org/googlecloud"/>
+        <span>Google Cloud Platform</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="docker" width="70" src="https://cdn.simpleicons.org/docker"/>
+        <span>Docker</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="uptimekuma" width="70" src="https://cdn.simpleicons.org/uptimekuma"/>
+        <span>Uptime Kuma</span>
+    </div>
+    <div style="align-items: center; 
+        border: 1px solid #fff; 
+        padding: 10px 12px; 
+        border-radius: 7px; 
+        display: flex; 
+        gap: 10px;
+        flex-direction: column;">
+        <img alt="redis" width="70" src="https://cdn.simpleicons.org/redis"/>
+        <span>Redis</span>
+    </div>
+</div>
+<br />

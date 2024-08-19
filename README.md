@@ -8,7 +8,6 @@
 ## My Socials 🌍📞📱
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-0866FF?logo=facebook&style=flat)](https://facebook.com/gaious27)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&style=flat)](https://www.linkedin.com/in/gaious-antonio-28b21916b/)
-[![Github Badge](https://img.shields.io/badge/LinkedIn-Profile-181717?logo=github&style=flat)](https://github.com/gaiousantonio0909)
 
 - 👷‍♀️  CMS Developer at  [Product List Genie ![Image of PLG](https://app.productlistgenie.io/assets/graphics/favicon.ico)](https://funnelgenie.com/)
 - 🌱  I’m currently learning something that Im about to discover.

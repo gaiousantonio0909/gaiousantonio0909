@@ -9,7 +9,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-0866FF?logo=facebook&style=flat)](https://facebook.com/gaious27)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&style=flat)](https://www.linkedin.com/in/gaious-antonio-28b21916b/)
 
-- 👷‍♀️  CMS Developer at  [Product List Genie ![Image of PLG](https://app.productlistgenie.io/assets/graphics/favicon.ico)](https://funnelgenie.com/)
+- 👷‍♀️  CMS Developer at  [Product List Genie ![Image of PLG](https://app.productlistgenie.io/assets/graphics/favicon.ico)](https://productlistgenie.com/)
 - 🌱  I’m currently learning something that Im about to discover.
 - 💬  Ask me about anything, Feel free to ask . 😅😆
 - 📫  How to reach me: [Send me an Email 📩](mailto:gaiousantonio4@gmail.com)

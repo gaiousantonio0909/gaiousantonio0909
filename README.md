@@ -34,7 +34,7 @@
 
 ### Back-End Frameworks
 <p align="center">
-    <img alt="ExpressJS" width="70" src="https://cdn.simpleicons.org/express"/>        
+    <img alt="ExpressJS" width="70" src="https://img.shields.io/badge/Express.js-000000?logoSize=15&style=for-the-badge&logo=express&logoColor=white"/>        
     <img alt="Graphql" width="70" src="https://cdn.simpleicons.org/graphql"/>        
     <img alt="koa" width="70" src="https://cdn.simpleicons.org/koa"/>        
     <img alt="NestJS" width="70" src="https://cdn.simpleicons.org/nestjs"/>        

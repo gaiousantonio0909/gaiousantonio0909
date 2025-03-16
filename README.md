@@ -19,8 +19,28 @@
 ![Memes](https://img.shields.io/static/v1?label=Life%20Status&message=Working%20and%20Hustlin&color=97455F&style=for-the-badge)
 ![Memes](https://img.shields.io/badge/Buy%20Me-Some%20Beer-43A047?logo=bitcoin&style=for-the-badge) 
 ## Skills 
+### AWS
+<p align="center">
+    <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    <img alt="Amazon RDS" src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+    <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+    <img alt="Amazon SES" src="https://img.shields.io/badge/Amazon%20SES-FF9900?style=for-the-badge&logo=amazonsimpleemailservice&logoColor=white"/>
+    <img alt="Amazon CloudWatch" src="https://img.shields.io/badge/Amazon%20CloudWatch-5A29E4?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+    <img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+    <img alt="Amazon ECS" src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"/>
+    <img alt="Amazon DocumentDB" src="https://img.shields.io/badge/Amazon%20DocumentDB-4D75A3?style=for-the-badge&logo=amazondocumentdb&logoColor=white"/>
+    <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+    <img alt="Amazon Route 53" src="https://img.shields.io/badge/Amazon%20Route%2053-8D6C9F?style=for-the-badge&logo=amazonroute53&logoColor=white"/>
+    <img alt="AWS ELB" src="https://img.shields.io/badge/AWS%20Elastic%20Load%20Balancing-0073EC?style=for-the-badge&logo=awselasticloadbalancing&logoColor=white"/>
+    <img alt="AWS Secrets Manager" src="https://img.shields.io/badge/AWS%20Secrets%20Manager-3D648B?style=for-the-badge&logo=awssecretsmanager&logoColor=white"/>
+    <img alt="AWS Organizations" src="https://img.shields.io/badge/AWS%20Organizations-5A29E4?style=for-the-badge&logo=awsorganizations&logoColor=white"/>
+    <img alt="AWS Fargate" src="https://img.shields.io/badge/AWS%20Fargate-FF9900?style=for-the-badge&logo=awsfargate&logoColor=white"/>
+</p>
+<br />
+
 ### Programming Languages
 <p align="center">
+    <img alt="Terraform" src="https://img.shields.io/badge/terraform-844FBA?logoSize=15&style=for-the-badge&logo=terraform&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>        
     <img alt="TypeScript" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>        
     <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>        
